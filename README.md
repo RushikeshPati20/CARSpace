@@ -2,6 +2,25 @@
 
 CARSpace is an innovative solution aimed at revolutionizing parking management by effectively quantifying total cars and available parking spaces within a parking lot. This is achieved through the application of advanced image processing techniques, resulting in a cost-effective sensor solution.
 
+***
+# User Interface 
+
+![image](https://github.com/RushikeshPati20/CARSpace/assets/107334243/336f359a-ff12-4a4f-afba-7a405742b7f3)
+
+***
+
+![image](https://github.com/RushikeshPati20/CARSpace/assets/107334243/cf0408f7-b85e-46a7-99e0-e8ed46660c1b)
+
+***
+
+![image](https://github.com/RushikeshPati20/CARSpace/assets/107334243/8452c992-864e-45d2-9ac2-e8a7301c1f47)
+
+***
+
+![image](https://github.com/RushikeshPati20/CARSpace/assets/107334243/f508598a-e268-41c0-ac02-3b87d626a7f6)
+
+***
+
 ## Features
 
 - **Quantification of Parking Spaces**: Utilizing Python and libraries such as OpenCV and CVzone, CARSpace accurately quantifies the total number of cars present in a parking lot and determines the availability of parking spaces in real-time.
@@ -29,7 +48,7 @@ To use CARSpace, follow these steps:
 3. Run the application:
 
     ```
-    python main.py
+    python ui.py
     ```
 
 ## Usage
